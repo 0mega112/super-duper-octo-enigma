@@ -211,3 +211,4 @@ __marimo__/
 /bot
 .py
 config.py
+google-credentials.json
